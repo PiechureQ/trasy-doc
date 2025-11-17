@@ -10,7 +10,7 @@ start pustelnik
   trójgarb
     długość:31km
     przewyższenie:250m
-    nawieżchnia:asfalt/szuter
+    nawieżchnia:asfalt/szuter/droga leśna
     kategoria:szosa,mtb,góry,las
     punkty:punkt widokowy na trójgarbie
     https://brouter.m11n.de/#map=13/50.8296/16.1577/mtbmap.cz,Waymarked_Trails-Cycling&lonlats=16.051733%2C50.857526%7C16.163635%2C50.812835%7C16.169246%2C50.826657%7C16.174214%2C50.821623%7C16.192689%2C50.838617%7C16.190332%2C50.848363%7C16.051487%2C50.857506&profile=MTB-light
@@ -21,4 +21,24 @@ start pustelnik
     nawieżchnia:asfalt/nieznana
     kategoria:szosa,mtb,góry,las,ciekawe obiekty
     punkty:most kolejowy na trasie drogi rowerowej
+    uwagi:nie sprawdzona!
     https://brouter.m11n.de/#map=12/50.8033/16.0121/mtbmap.cz,Waymarked_Trails-Cycling&lonlats=16.051733%2C50.857526%7C16.003175%2C50.832152%7C16.0009%2C50.820145%7C15.999098%2C50.801922%7C15.996437%2C50.794218%7C16.0271%2C50.780787%7C16.032996%2C50.783799%7C16.03622%2C50.784379%7C16.051991%2C50.857636&profile=MTB-light
+
+  kamienna góra wariant przez kolorowe jeziorka
+    długość:30km
+    przewyższenie:450m
+    nawieżchnia:asfalt/nieznana
+    kategoria:szosa,mtb,góry,las,ciekawe obiekty
+    uwagi:nie sprawdzona!
+    punkty:most kolejowy na trasie drogi rowerowej,kolorowe jeziorka
+    https://brouter.m11n.de/#map=12/50.8315/15.8749/CyclOSM,Waymarked_Trails-Cycling&lonlats=16.051733%2C50.857526%7C15.972404%2C50.837003%7C15.973949%2C50.81841%7C15.987167%2C50.784129%7C16.0271%2C50.780787%7C16.032996%2C50.783799%7C16.03622%2C50.784379%7C16.051991%2C50.857674&profile=MTB-light
+
+  miedzianka - kamienna góra
+    długość:40km
+    przewyższenie:662m
+    nawieżchnia:asfalt/nieznana
+    kategoria:szosa,długa trasa
+    punkty:miedzianka
+    uwagi:
+    https://brouter.m11n.de/#map=12/50.8367/15.9510/standard,Waymarked_Trails-Cycling&lonlats=16.051733%2C50.857526%7C16.033174%2C50.876713%7C16.012917%2C50.867514%7C15.944594%2C50.877685%7C15.942534%2C50.803985%7C15.987167%2C50.784129%7C16.051991%2C50.857674&profile=MTB-light
+
